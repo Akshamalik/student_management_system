@@ -10,12 +10,9 @@ text-decoration: none;
 
 }
 .nav-button:hover{
-    background-color: blue;
     color: #fff;
 }
 .container-footer{
-
-    
     background-color: rgb(253, 252, 252);
     color: #fff;
 }
